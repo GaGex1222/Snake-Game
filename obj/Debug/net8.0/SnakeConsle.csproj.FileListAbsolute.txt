@@ -1,0 +1,14 @@
+C:\Users\gald1\source\repos\Snake\SnakeConsle\bin\Debug\net8.0\SnakeConsle.exe
+C:\Users\gald1\source\repos\Snake\SnakeConsle\bin\Debug\net8.0\SnakeConsle.deps.json
+C:\Users\gald1\source\repos\Snake\SnakeConsle\bin\Debug\net8.0\SnakeConsle.runtimeconfig.json
+C:\Users\gald1\source\repos\Snake\SnakeConsle\bin\Debug\net8.0\SnakeConsle.dll
+C:\Users\gald1\source\repos\Snake\SnakeConsle\bin\Debug\net8.0\SnakeConsle.pdb
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.AssemblyInfoInputs.cache
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.AssemblyInfo.cs
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.csproj.CoreCompileInputs.cache
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.dll
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\refint\SnakeConsle.dll
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.pdb
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\SnakeConsle.genruntimeconfig.cache
+C:\Users\gald1\source\repos\Snake\SnakeConsle\obj\Debug\net8.0\ref\SnakeConsle.dll
